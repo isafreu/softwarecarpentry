@@ -2,8 +2,7 @@
 
 ## Ingredients
 - avocado
+- lemon
 - salt
-- lime
 
 ## Method
-hallo
